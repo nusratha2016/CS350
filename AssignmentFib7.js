@@ -29,18 +29,3 @@ console.log(next());
 console.log(next());
 console.log(next());
 
-// Output
-
-1
-1
-2
-3
-5
-813
-21
-34
-55
-89144
-233
-377
-610
